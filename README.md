@@ -19,13 +19,26 @@ Tugas Pemograman Web
 
 3. Memformat teks
  
+ ![image](https://user-images.githubusercontent.com/82088173/115141645-b1ccd980-a067-11eb-899f-3c015f67df47.png)
+
+ ![image](https://user-images.githubusercontent.com/82088173/115141651-babdab00-a067-11eb-8154-2c6a384ef94f.png)
+
+ 
  
 4. Menyisipkan Gambar
  
- 
+ ![image](https://user-images.githubusercontent.com/82088173/115141682-e476d200-a067-11eb-949a-13841fc92f6e.png)
+
+![image](https://user-images.githubusercontent.com/82088173/115141690-ef316700-a067-11eb-9d7b-6062eb99a4d4.png)
+
 
 5. Menambahkan Hyperlink
  
+ ![image](https://user-images.githubusercontent.com/82088173/115141717-0b350880-a068-11eb-8d82-721ed2bf9f21.png)
+
+![image](https://user-images.githubusercontent.com/82088173/115141727-1851f780-a068-11eb-81b5-490721c147e3.png)
+
+
 	isa 
 Jawab Pertanyaan Berikut
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
