@@ -12,6 +12,11 @@ Tugas Pemograman Web
 
 2. Menambahkan Judul
 
+
+![image](https://user-images.githubusercontent.com/82088173/115141578-5e5a8b80-a067-11eb-946d-e290bf839ef2.png)
+
+
+
 3. Memformat teks
  
  
