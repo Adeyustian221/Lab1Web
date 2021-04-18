@@ -1,6 +1,8 @@
 # Lab1Web
 Tugas Pemograman Web
 1. Membuat Paragraf 
+
+
 	![image](https://user-images.githubusercontent.com/82088173/115141444-67972880-a066-11eb-978a-74e471c838ba.png)
 
 
