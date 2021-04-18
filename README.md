@@ -3,7 +3,8 @@ Tugas Pemograman Web
 1. Membuat Paragraf 
 
 
-	![image](https://user-images.githubusercontent.com/82088173/115141444-67972880-a066-11eb-978a-74e471c838ba.png)
+	![image](https://user-images.githubusercontent.com/82088173/115141518-ff951200-a066-11eb-8bc1-8088a02cb469.png)
+
 
 
 
